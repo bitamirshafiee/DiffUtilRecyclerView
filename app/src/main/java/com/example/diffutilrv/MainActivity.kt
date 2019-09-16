@@ -24,4 +24,11 @@ class MainActivity : AppCompatActivity() {
             .addToBackStack(frg.javaClass.name)
             .commit()
     }
+
+    override fun onBackPressed() {
+        if (supportFragmentManager.backStackEntryCount > 1)
+            super.onBackPressed()
+        else
+            finish()
+    }
 }
