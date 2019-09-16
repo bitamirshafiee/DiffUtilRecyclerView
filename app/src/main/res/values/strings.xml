@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DiffUtilRV</string>
+
+    <string name="str_diff_call_back_twenty_nineteen">2019 coins</string>
+    <string name="str_diff_call_back_twenty_eighteen">2018 coins</string>
+
+    <string name="str_submit_list_twenty_nineteen">2019 coins</string>
+    <string name="str_submit_list_twenty_eighteen">2018 coins</string>
+
+    <string name="str_submit_list">RecyclerView with submitList</string>
+    <string name="str_diff_util_callback">RecyclerView with DiffUtillCallBack</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
